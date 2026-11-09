@@ -1,4 +1,4 @@
 # apnacollage--demo
 This is my second git repository
 <br>
-Author - piyush singh
+Author - piyush(apna collage)
